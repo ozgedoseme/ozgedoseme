@@ -1,6 +1,5 @@
-# Hi, I am Özge Döşeme 👋
+# Hi, I am Özge Döşeme
 
-### 🚀 About Me
 I am an **Electrical & Electronics Engineer** graduate with international experience, specializing in the intersection of **Embedded Systems and AI**, from low-level firmware (RTOS) to deep learning pipelines.
 
 - 🔭 I am currently seeking opportunities and roles in **Embedded Software & Hardware Engineering**.
