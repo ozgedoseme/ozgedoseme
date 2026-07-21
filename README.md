@@ -1,5 +1,3 @@
-![Ziyaretçi Sayısı](https://visitor-badge.laobi.icu/badge?page_id=ozgedoseme)
-
 # Hi, I am Özge. 
 
 I am an **Electrical & Electronics Engineer** graduate with international experience, specializing in the intersection of **Embedded Systems and AI**, from low-level firmware (RTOS) to deep learning pipelines.
@@ -8,6 +6,7 @@ I am an **Electrical & Electronics Engineer** graduate with international experi
 - 💬 Feel free to reach out to me via email: **[dosemeozge48@gmail.com](mailto:dosemeozge48@gmail.com)**
 - 💼 Connect with me on **www.linkedin.com/in/ozgedoseme48**
 
+![Profil Ziyaretleri](https://komarev.com/ghpvc/?username=ozgedoseme&color=purple&style=flat-square)
 ---
 
 ### 🛠️ Technologies & Tools
