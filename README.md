@@ -1,4 +1,4 @@
-# Hi, I am Özge. Welcome to my Portfolio. 
+# Hi, I am Özge :) Welcome to my Portfolio!
 
 I am an **Electrical & Electronics Engineer** graduate with international experience, specializing in the intersection of **Embedded Systems and AI**, from low-level firmware (RTOS) to deep learning pipelines.
 
@@ -19,6 +19,15 @@ I am an **Electrical & Electronics Engineer** graduate with international experi
 | Category | Skills & Tools |
 | :--- | :--- |
 | **Languages** | ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white) |
-| **Microcontrollers** | STM32, ESP32, Arduino |
-| **Firmware & OS** | RTOS (FreeRTOS), Bare-Metal Development |
+| **Microcontrollers** | ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white) |
+| **Firmware & OS** | FreeRTOS, Bare-Metal Development |
 | **Developer Tools** | ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ozgedoseme&show_icons=true&theme=pastel" alt="Özge's GitHub Stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozgedoseme&layout=compact&theme=pastel" alt="Top Languages" width="350"/>
+</p>
