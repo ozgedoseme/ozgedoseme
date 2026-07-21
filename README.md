@@ -1,4 +1,4 @@
-![Profil Ziyaretleri](https://komarev.com/ghpvc/?username=ozgedoseme&color=blue&style=flat-square)
+![Ziyaretçi Sayısı](https://visitor-badge.laobi.icu/badge?page_id=ozgedoseme)
 
 # Hi, I am Özge. 
 
