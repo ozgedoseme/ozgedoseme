@@ -1,12 +1,14 @@
-# Hi, I am Özge :) Welcome to my Portfolio!
+## Hi, I am Özge :) Welcome to my Portfolio!
 
-I am an **Electrical & Electronics Engineer** graduate with international experience, specializing in the intersection of **Embedded Systems and AI**, from low-level firmware (RTOS) to deep learning pipelines.
+<p style="font-size: 14px;">
+I am an <strong>Electrical & Electronics Engineer</strong> graduate with international experience, specializing in the intersection of <strong>Embedded Systems and AI</strong>, from low-level firmware (RTOS) to deep learning pipelines.
+</p>
 
 [![Profil Ziyaretleri](https://komarev.com/ghpvc/?username=ozgedoseme&color=ffb6c1&style=flat-square)](https://github.com/ozgedoseme)
 
 ---
 
-### 📌 About Me
+#### 📌 About Me
 
 - 🔍 **Status:** I am currently seeking opportunities and roles in **Embedded Software & Hardware Engineering**.
 - 📧 **Email:** [dosemeozge48@gmail.com](mailto:dosemeozge48@gmail.com)
@@ -14,7 +16,7 @@ I am an **Electrical & Electronics Engineer** graduate with international experi
 
 ---
 
-### 🛠️ Technologies & Tools
+#### 🛠️ Technologies & Tools
 
 | Category | Skills & Tools |
 | :--- | :--- |
@@ -25,9 +27,9 @@ I am an **Electrical & Electronics Engineer** graduate with international experi
 
 ---
 
-### 📊 GitHub Stats
+#### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ozgedoseme&show_icons=true&theme=pastel" alt="Özge's GitHub Stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozgedoseme&layout=compact&theme=pastel" alt="Top Languages" width="350"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=ozgedoseme&show_icons=true&theme=pastel" alt="Özge's GitHub Stats" width="380"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ozgedoseme&layout=compact&theme=pastel" alt="Top Languages" width="330"/>
 </p>
