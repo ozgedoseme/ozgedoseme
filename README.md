@@ -10,9 +10,9 @@ I am an <strong>Electrical & Electronics Engineer</strong> graduate with interna
 
 #### 📌 About Me
 
-- 🔍 **Status:** I am currently seeking opportunities and roles in **Embedded Software & Hardware Engineering**.
-- 📧 **Email:** [dosemeozge48@gmail.com](mailto:dosemeozge48@gmail.com)
-- 💼 **LinkedIn:** [ozgedoseme48](https://www.linkedin.com/in/ozgedoseme48)
+- **Status:** I am currently seeking opportunities and roles in **Embedded Software & Hardware Engineering**.
+- **Email:** [dosemeozge48@gmail.com](mailto:dosemeozge48@gmail.com)
+- **LinkedIn:** [ozgedoseme48](https://www.linkedin.com/in/ozgedoseme48)
 
 ---
 
