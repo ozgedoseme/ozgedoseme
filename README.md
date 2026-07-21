@@ -1,3 +1,5 @@
+![Profil Ziyaretleri](https://komarev.com/ghpvc/?username=ozgedoseme&color=blue&style=flat-square)
+
 # Hi, I am Özge. 
 
 I am an **Electrical & Electronics Engineer** graduate with international experience, specializing in the intersection of **Embedded Systems and AI**, from low-level firmware (RTOS) to deep learning pipelines.
